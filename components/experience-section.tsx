@@ -16,7 +16,7 @@ const experiences: ExperienceItem[] = [
     description: [
       "Leading novel research on AI analysis of binaries to improve malware detection",
       "Trained a diffusion model to generate malicious opcode sequences for data augmentation",
-      "Built XGBoost classifier achieving 90% accuracy, 96% recall; 91% accuracy at high noise levels where baselines dropped to 51%",
+      "Built XGBoost classifier achieving 99% accuracy and 91% recall at high noise levels where baseline dropped to 51%",
       "Writing research paper as first author for publication",
     ],
     tags: ["Security Research", "Malware Detection", "Diffusion Models", "Deep Learning", "XGBoost"],
